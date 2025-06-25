@@ -39,6 +39,10 @@ filter results by Marital Status, Region, Occupation, and Education
 Level. The dashboard allows users to instantly view dynamic changes
 in charts and summaries based on selected filters.
 
+
+![Alt text for the image](https://github.com/Pianomello/Bike_Sale_Analysis/blob/main/Screenshot%202025-06-01%20214546.png)
+
+
 ## Technologies Used
 
 - **Software:** `Microsoft Excel`
