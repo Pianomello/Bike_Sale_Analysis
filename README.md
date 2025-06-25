@@ -40,8 +40,12 @@ in charts and summaries based on selected filters.
 
 - **Software:** 'Microsoft Excel'
 - **Techniques:**
-       - 'Pivot Tables'
-  - 'Dashboard Layout Design'  
+  - 'Pivot Tables'
+  - 'Dashboard Layout Design'
+  - 'Data Cleaning & Categorization'
+  - 'Data Sorting and Formatting'
+  - 'Excel Formulas (IF, Nested IF, SUM, etc.)'
+  - 'Slicers for interactivity'  
 
 
 
