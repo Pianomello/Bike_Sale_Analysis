@@ -20,11 +20,13 @@ using nested IF statements, breaking down users into Adolescent,
 Middle Age, and Old Age groups.
 
 - **Pivot Table Insights:**
+      
 
-1. Income vs Bike Purchase – Analyzed how income levels vary
+
+  - Income vs Bike Purchase – Analyzed how income levels vary
 depending on whether someone purchased a bike.
 
-2. Commute Distance vs Purchase – Interpreted how travel
+  - Commute Distance vs Purchase – Interpreted how travel
 distance affects the likelihood of buying a bike. For clarity,
 labels like “10+ Miles” were renamed to “More than 10 Miles”.
 
@@ -40,12 +42,12 @@ in charts and summaries based on selected filters.
 
 - **Software:** 'Microsoft Excel'
 - **Techniques:**
-  - 'Pivot Tables'
-  - 'Dashboard Layout Design'
-  - 'Data Cleaning & Categorization'
-  - 'Data Sorting and Formatting'
-  - 'Excel Formulas (IF, Nested IF, SUM, etc.)'
-  - 'Slicers for interactivity'  
+  - `Pivot Tables`
+  - `Dashboard Layout Design`
+  - `Data Cleaning & Categorization`
+  - `Data Sorting and Formatting`
+  - `Excel Formulas (IF, Nested IF, SUM, etc.)`
+  - `Slicers for interactivity`
 
 
 
