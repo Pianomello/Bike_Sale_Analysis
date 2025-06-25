@@ -28,7 +28,7 @@ depending on whether someone purchased a bike.
 distance affects the likelihood of buying a bike. For clarity,
 labels like “10+ Miles” were renamed to “More than 10 Miles”.
 
-3. Age Group vs Purchase – Assessed the influence of age
+ **3**. Age Group vs Purchase – Assessed the influence of age
 brackets on buying behavior.
 
 - **Dashboard Creation:** Designed an interactive dashboard using Pivot Tables and Slicers to
