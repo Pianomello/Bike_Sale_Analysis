@@ -41,6 +41,7 @@ in charts and summaries based on selected filters.
 - **Software:** 'Microsoft Excel'
 - **Techniques:**
        - 'Pivot Tables'
+  - 'Dashboard Layout Design'  
 
 
 
