@@ -1,5 +1,6 @@
 # Interactive Excel Dashboard for Bike Purchase Trends Analysis
 
+![Alt text for the image](https://github.com/Pianomello/Bike_Sale_Analysis/blob/main/Screenshot%202025-06-01%20215751.png)
 
 
 ## Overview
